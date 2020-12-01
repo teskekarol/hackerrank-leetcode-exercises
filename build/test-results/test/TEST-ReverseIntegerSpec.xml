@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ReverseIntegerSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-30T17:12:29" hostname="POLPC04701" time="0.1">
+  <properties/>
+  <testcase name="should solve cases[0]" classname="ReverseIntegerSpec" time="0.098"/>
+  <testcase name="should solve cases[1]" classname="ReverseIntegerSpec" time="0.0"/>
+  <testcase name="should solve cases[2]" classname="ReverseIntegerSpec" time="0.0"/>
+  <testcase name="should solve cases[3]" classname="ReverseIntegerSpec" time="0.0"/>
+  <testcase name="should solve cases[4]" classname="ReverseIntegerSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
