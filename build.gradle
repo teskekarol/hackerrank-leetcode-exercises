@@ -21,6 +21,11 @@ repositories {
 
 dependencies {
   compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+  compile 'com.fasterxml.jackson.core:jackson-databind:2.10.0'
+  compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.13.+"
+  compile "io.ktor:ktor-client-jackson:1.6.2"
+  compile "io.ktor:ktor-client-core:1.6.2"
+  compile "io.ktor:ktor-client-okhttp:1.6.2"
   testCompile(
     'junit:junit:4.4',
     'org.codehaus.groovy:groovy-all:2.4.4',
